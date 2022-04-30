@@ -4,10 +4,6 @@ Questa è la repository con il codice sorgente della Libreria contenente le clas
 
 Per avere i file da importare in Visual Studio in .NET CORE: https://github.com/CarusoMatteo/LibreriaBanca-Core-SoloFile.git
 
-Per avere i file da importare in Visual Studio in .NET Framework: https://github.com/CarusoMatteo/LibreriaBanca-SoloFile.git
-
-Per visualizzare il codice sorgente in .NET Framework: https://github.com/CarusoMatteo/LibreriaBanca.git
-
 Per vedere il progetto della banca completo: https://github.com/AliDakir05/WPFBank.git
 
 Se il file `.xml` è stato importato correttamente saranno presenti ToolTip con spiegazioni quando si scrive il codice.
