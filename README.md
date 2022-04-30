@@ -2,7 +2,7 @@
 
 Questa è la repository con il codice sorgente della Libreria contenente le classi Profilo e Conto in **.NET CORE**
 
-Per avere i file da importare in Visual Studio: https://github.com/CarusoMatteo/LibreriaBanca-SoloFile
+Per avere i file da importare in Visual Studio: https://github.com/CarusoMatteo/LibreriaBanca-Core-SoloFile.git
 
 Per vedere il progetto della banca completo: https://github.com/AliDakir05/WPFBank.git
 
